@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project
+# Disaster Response Project
 
 ## Project Motivation
 
